@@ -12,7 +12,9 @@ $servers = array(
 	"theverge.game.nfoservers.com:25565",
 );
 
-?><!DOCTYPE html>
+?>
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8" />
